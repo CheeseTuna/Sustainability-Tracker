@@ -1,0 +1,44 @@
+/* Styling for the index.html page */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.dashboard-content {
+    margin-top: 60px; 
+}
+
+.navbar-container {
+    background-color: #8bb336;
+    height: 60px;
+    width: 100%;
+}
+
+.header-container {
+    border-style: dotted;
+    background-color: #8bb336;
+}
+
+.banner-container {
+    
+    border-style: dotted;
+}
+
+.header-banner-logo {
+    border-style: dotted;
+    width: 30%;
+    align-content: flex-end;
+}
+
+
+.header-title {
+    color: #284E13;
+    border-style: dotted;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+.tracker-container {
+    border-style: dotted; 
+}

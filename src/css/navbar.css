@@ -1,0 +1,26 @@
+/* Styling for the navigation bar */
+
+.navbar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    z-index: 1000;
+}
+
+.navbar-link {
+    color: #284E13;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 70px; 
+}
+
+.navbar-link:first-child {
+    margin-left: 0;
+}
+
