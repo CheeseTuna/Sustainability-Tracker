@@ -15,30 +15,50 @@ body {
 }
 
 .header-container {
-    border-style: dotted;
     background-color: #8bb336;
+    padding: 10px;
 }
 
-.banner-container {
-    
-    border-style: dotted;
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .header-banner-logo {
-    border-style: dotted;
-    width: 30%;
-    align-content: flex-end;
+    width: 200px;
+    height: auto;
 }
 
 
 .header-title {
     color: #284E13;
-    border-style: dotted;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 39px;
+    margin-left: 20px;
 }
 
-
 .tracker-container {
-    border-style: dotted; 
+    display: flex;
+    gap: 50px;
+    margin-left:20px;
+    margin-bottom: 10px;
+}
+
+.tracker-section {
+    background-color: #fff;
+    color: #284E13;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    min-width: 60px;
+    text-align: center;
+}
+
+.dataCard-section {
+    border-style: dotted;
+    width: auto;
+    height: auto;
+    
 }

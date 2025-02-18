@@ -9,30 +9,45 @@
     <link href="/src/css/index.css" rel="stylesheet">
     <link href="/src/css/navbar.css" rel="stylesheet">
     <link href="/src/css/tracker.css" rel="stylesheet">
+    <link href="/src/css/dataCard.css" rel="stylesheet">
  </head>
  <body>
     <div class="navbar-container" id="navbar-section"></div>
     <div class="header-container">
-        <section>
-            <header>
-                <div class="banner-container"><img class="header-banner-logo"src="/public/assets/banner-logo.png"></div>
+        <header>
+            <div class="header-content">
                 <h1 class="header-title">Sustainability Tracker</h1>
-                <div class="tracker-container" id="tracker-section"></div>
-            </header>
-        </section>
+                <img class="header-banner-logo" src="/public/assets/banner-logo.png">
+            </div>
+            <div id="tracker-section"></div>
+        </header>
+    </div>    
+    <div class="dashboard-content">
+        <div class="dataCard-section" id="dataCard-section"></div>
     </div>
-    <div class="dashboard-content"></div>
     <script>
+        fetch('../src/components/tracker.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('tracker-section').innerHTML = data;
+        });
+
         fetch('../src/components/navbar.html')
         .then(response => response.text())
         .then (data => {
             document.getElementById('navbar-section').innerHTML = data;
         });
 
-        fetch('../src/components/tracker.html')
+        // fetch('../src/components/tracker.html')
+        // .then(response => response.text())
+        // .then (data => {
+        //     document.getElementById('tracker-section').innerHTML = data;
+        // });
+
+        fetch('../src/components/dataCard.html')
         .then(response => response.text())
-        .then (data => {
-            document.getElementById('tracker-section').innerHTML = data;
+        .then(data => {
+            document.getElementById('dataCard-section').innerHTML = data;
         });
 
     </script>

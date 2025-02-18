@@ -1,0 +1,16 @@
+.card-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-style: dotted;
+}
+
+.card-container {
+    border-style: dashed;
+    display: flex;
+}
+
+.card-content-travel {
+    border-style:double;
+}
+
