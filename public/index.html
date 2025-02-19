@@ -25,6 +25,22 @@
     <div class="dashboard-content">
         <div class="dataCard-section" id="dataCard-section"></div>
     </div>
+    <script src="../src/utils/loadScript.js"></script>
+    <script>
+        console.log("🔄 Fetching dataCard.html...");
+
+        fetch('../src/components/dataCard.html')
+            .then(response => response.text())
+            .then(data => {
+                console.log("✅ dataCard.html fetched!");
+                document.getElementById('dataCard-section').innerHTML = data;
+
+                // Load dataCard.js dynamically after HTML is injected
+                loadScript("../src/js/dataCard.js");
+            })
+            .catch(error => console.error("❌ Failed to fetch dataCard.html:", error));
+    </script>
+
     <script>
         fetch('../src/components/tracker.html')
         .then(response => response.text())
@@ -37,19 +53,8 @@
         .then (data => {
             document.getElementById('navbar-section').innerHTML = data;
         });
-
-        // fetch('../src/components/tracker.html')
-        // .then(response => response.text())
-        // .then (data => {
-        //     document.getElementById('tracker-section').innerHTML = data;
-        // });
-
-        fetch('../src/components/dataCard.html')
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('dataCard-section').innerHTML = data;
-        });
-
     </script>
+    
+    
  </body>
  </html>
