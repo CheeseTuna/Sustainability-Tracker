@@ -41,3 +41,8 @@
     border-radius: 10px;
 }
 
+.percentage {
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
