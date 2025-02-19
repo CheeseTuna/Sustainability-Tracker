@@ -37,5 +37,5 @@ document.addEventListener("DOMContentLoaded", function () {
     loadComponent('/src/components/header.html', 'header-section', ['/src/css/header.css']);
     loadComponent('/src/components/tracker.html', 'tracker-section', ['/src/css/tracker.css']);
     loadComponent('/src/components/dataCard.html', 'dataCard-section', ['/src/css/dataCard.css']);
-    loadComponent('/src/components/savingTips.html', 'saving-tips-section', []); // Add CSS if needed
+    // loadComponent('/src/components/savingTips.html', 'saving-tips-section', []); // Add CSS if needed
 });

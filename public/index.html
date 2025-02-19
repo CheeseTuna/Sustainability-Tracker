@@ -5,44 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sustainability Tracker</title>
     <link href="/src/css/styles.css" rel="stylesheet">
-    <link href="/src/css/header.css" rel="stylesheet">
     <link href="/src/css/index.css" rel="stylesheet">
-    <link href="/src/css/navbar.css" rel="stylesheet">
-    <link href="/src/css/tracker.css" rel="stylesheet">
-    <link href="/src/css/dataCard.css" rel="stylesheet">
 </head>
 <body>
-    <div class="header-wrapper">
-        <div class="header-top">
-            <h1 class="header-title">Sustainability Tracker</h1>
-            <div class="navbar-container" id="navbar-section"></div>
-        </div>
-
-        <div class="header-logo-container">
-            <img class="header-banner-logo" src="/public/assets/banner-logo.png" alt="Banner Logo">
-        </div>
-
-        <div class="tracker-container" id="tracker-section"></div>
-    </div>  
+    <div id="navbar-section"></div>
+    <div id="header-section"></div>
+    <div id="tracker-section"></div>
 
     <div class="dashboard-content">
-        <div class="dataCard-section" id="dataCard-section"></div>
+        <div id="dataCard-section"></div>
     </div>
 
+    <script src="/src/utils/loadComponents.js"></script>
     <script src="../src/utils/loadScript.js"></script>
     <script>
-        fetch('../src/components/tracker.html')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('tracker-section').innerHTML = data;
-            });
-
-        fetch('../src/components/navbar.html')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('navbar-section').innerHTML = data;
-            });
-
         fetch('../src/components/dataCard.html')
             .then(response => response.text())
             .then(data => {
