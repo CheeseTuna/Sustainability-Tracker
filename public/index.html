@@ -1,7 +1,6 @@
-<!-- Main entry point for the app -->
- <!DOCTYPE html>
- <html lang="en">
- <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sustainability Tracker</title>
@@ -11,50 +10,46 @@
     <link href="/src/css/navbar.css" rel="stylesheet">
     <link href="/src/css/tracker.css" rel="stylesheet">
     <link href="/src/css/dataCard.css" rel="stylesheet">
- </head>
- <body>
-    <div class="navbar-container" id="navbar-section"></div>
-    <div class="header-container">
-        <header>
-            <div class="header-content">
-                <h1 class="header-title">Sustainability Tracker</h1>
-                <img class="header-banner-logo" src="/public/assets/banner-logo.png">
-            </div>
-            <div id="tracker-section"></div>
-        </header>
-    </div>    
+</head>
+<body>
+    <div class="header-wrapper">
+        <div class="header-top">
+            <h1 class="header-title">Sustainability Tracker</h1>
+            <div class="navbar-container" id="navbar-section"></div>
+        </div>
+
+        <div class="header-logo-container">
+            <img class="header-banner-logo" src="/public/assets/banner-logo.png" alt="Banner Logo">
+        </div>
+
+        <div class="tracker-container" id="tracker-section"></div>
+    </div>  
+
     <div class="dashboard-content">
         <div class="dataCard-section" id="dataCard-section"></div>
     </div>
+
     <script src="../src/utils/loadScript.js"></script>
     <script>
-        console.log("🔄 Fetching dataCard.html...");
+        fetch('../src/components/tracker.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('tracker-section').innerHTML = data;
+            });
+
+        fetch('../src/components/navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar-section').innerHTML = data;
+            });
 
         fetch('../src/components/dataCard.html')
             .then(response => response.text())
             .then(data => {
-                console.log("dataCard.html fetched!");
                 document.getElementById('dataCard-section').innerHTML = data;
-
                 loadScript("../src/js/dataCard.js");
             })
             .catch(error => console.error("Failed to fetch dataCard.html:", error));
     </script>
-
-    <script>
-        fetch('../src/components/tracker.html')
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('tracker-section').innerHTML = data;
-        });
-
-        fetch('../src/components/navbar.html')
-        .then(response => response.text())
-        .then (data => {
-            document.getElementById('navbar-section').innerHTML = data;
-        });
-    </script>
-    
-    
- </body>
- </html>
+</body>
+</html>
