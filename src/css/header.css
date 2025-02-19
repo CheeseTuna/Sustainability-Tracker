@@ -1,0 +1,26 @@
+.header-container {
+    background-color: #8bb336;
+    padding: 10px;
+    max-height: 149px;
+}
+
+.header-content {
+    border-style: dashed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-banner-logo {
+    width: 200px;
+    height: auto;
+}
+
+
+.header-title {
+    border-style: dashed;
+    color: #284E13;
+    font-weight: bold;
+    font-size: 39px;
+    margin-left: 20px;
+}

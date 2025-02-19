@@ -24,3 +24,8 @@
     margin-left: 0;
 }
 
+.navbar-container {
+    background-color: #8bb336;
+    height: 60px;
+    width: 100%;
+}
