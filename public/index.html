@@ -4,8 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sustainability Tracker</title>
-    <link href="/src/css/styles.css" rel="stylesheet">
-    <link href="/src/css/index.css" rel="stylesheet">
+    <head>
+        <link href="/src/css/styles.css" rel="stylesheet">
+        <link href="/src/css/index.css" rel="stylesheet">
+        <link href="/src/css/navbar.css" rel="stylesheet">
+        <link href="/src/css/header.css" rel="stylesheet">
+        <link href="/src/css/tracker.css" rel="stylesheet">
+        <link href="/src/css/dataCard.css" rel="stylesheet">
+    </head>
+    
 </head>
 <body>
     <div id="navbar-section"></div>
@@ -16,8 +23,9 @@
         <div id="dataCard-section"></div>
     </div>
 
-    <script src="/src/utils/loadComponents.js"></script>
-    <script src="../src/utils/loadScript.js"></script>
+    <script src="/src/utils/loadComponents.js" defer></script>
+    <script src="/src/utils/loadScript.js" defer></script>
+
     <script>
         fetch('../src/components/dataCard.html')
             .then(response => response.text())

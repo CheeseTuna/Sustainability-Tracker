@@ -1,4 +1,4 @@
-function loadComponent(componentPath, targetId, cssFiles = []) {
+function loadComponent(componentPath, targetId, cssFiles = [], jsFiles = []) {
     fetch(componentPath)
         .then(response => {
             if (!response.ok) {
@@ -11,31 +11,38 @@ function loadComponent(componentPath, targetId, cssFiles = []) {
             console.log(`✅ Loaded: ${componentPath}`);
 
             // Load all required CSS files for this component
-            cssFiles.forEach(cssFile => loadCSS(cssFile));
+            cssFiles.forEach(cssFile => reloadCSS(cssFile));
+
+            // Load all required JS files
+            jsFiles.forEach(jsFile => reloadJS(jsFile));
         })
         .catch(error => console.error(`❌ Error loading ${componentPath}:`, error));
 }
 
-function loadCSS(cssPath) {
-    if (!document.querySelector(`link[href="${cssPath}"]`)) {
-        const link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = cssPath;
-        document.head.appendChild(link);
-        console.log(`✅ Loaded CSS: ${cssPath}`);
+function reloadCSS(cssPath) {
+    const existingLink = document.querySelector(`link[href="${cssPath}"]`);
+    if (existingLink) {
+        existingLink.remove(); // Remove old CSS to force reload
     }
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = cssPath + "?v=" + new Date().getTime(); // Cache-busting
+    document.head.appendChild(link);
+    console.log(`✅ Reloaded CSS: ${cssPath}`);
 }
 
-// Auto-load ALL components and their respective CSS files
-document.addEventListener("DOMContentLoaded", function () {
-    // Global styles
-    loadCSS('/src/css/styles.css');
-    loadCSS('/src/css/index.css');
+function reloadJS(jsPath) {
+    const script = document.createElement("script");
+    script.src = jsPath + "?v=" + new Date().getTime(); // Cache-busting
+    script.defer = true;
+    document.body.appendChild(script);
+    console.log(`✅ Reloaded JS: ${jsPath}`);
+}
 
-    // Component-specific styles
+// Auto-load components with their respective CSS and JS files
+document.addEventListener("DOMContentLoaded", function () {
     loadComponent('/src/components/navbar.html', 'navbar-section', ['/src/css/navbar.css']);
     loadComponent('/src/components/header.html', 'header-section', ['/src/css/header.css']);
-    loadComponent('/src/components/tracker.html', 'tracker-section', ['/src/css/tracker.css']);
-    loadComponent('/src/components/dataCard.html', 'dataCard-section', ['/src/css/dataCard.css']);
-    // loadComponent('/src/components/savingTips.html', 'saving-tips-section', []); // Add CSS if needed
+    loadComponent('/src/components/tracker.html', 'tracker-section', ['/src/css/tracker.css'], ['/src/js/tracker.js']);
+    loadComponent('/src/components/dataCard.html', 'dataCard-section', ['/src/css/dataCard.css'], ['/src/js/dataCard.js']);
 });

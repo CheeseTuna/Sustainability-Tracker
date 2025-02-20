@@ -1,17 +1,36 @@
 .tracker-container {
     width: 100%;
     display: flex;
-    gap: 50px;
-    margin-bottom: 10px;
+    justify-content: flex-start;
 }
 
 .tracker-section {
-    background-color: #fff;
-    color: #284E13;
     font-size: 24px;
+    color: #284E13;
     font-weight: bold;
-    padding: 10px;
-    border-radius: 5px;
-    min-width: 60px;
-    text-align: center;
+}
+
+.tracker-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    border-color: #284E13;
+    border-right: 1px solid;
+    text-align: center; 
+}
+
+.tracker-content {
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+    width: 100%;
+}
+
+.tracker-icon {
+    max-width: 30px; 
+    height: auto;
+}
+
+.tracker-title {
+    font-size: 20px;
 }
