@@ -1,0 +1,5 @@
+.foodCard-index-main-wrapper {
+    display: grid;
+    grid-template-columns: 400px 300px auto 0px;
+    border-style: solid;
+}

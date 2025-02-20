@@ -4,11 +4,11 @@
     flex-direction: column;
     align-items: center;
     background-color: #8bb336;
-    padding: 20px;
+    padding: 20px 20px;
+    padding-bottom: 0px;
     width: 100%;
     box-sizing: border-box;
     position: relative;
-
 }
 
 .header-top {
@@ -18,7 +18,6 @@
     width: 100%;
     position: relative;
     z-index: 2;
-    
 }
 
 .header-middle {
@@ -26,7 +25,6 @@
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    height: auto;
 }
 
 .header-title {
@@ -48,7 +46,8 @@
 }
 
 .header-banner-logo {
-    width: 190px;
+    width: 180px;
     height: auto;
+    padding-bottom: 10px;
 }
 
