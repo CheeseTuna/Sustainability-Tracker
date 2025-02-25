@@ -1,24 +1,24 @@
-﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72392","Crop residues (N content)","0115","Barley","2022","2022","3050","FAO TIER 1","kg","84397661.8229","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72302","Crop residues (Emissions N2O)","0115","Barley","2022","2022","3050","FAO TIER 1","kt","1.6247","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72342","Crop residues (Direct emissions N2O)","0115","Barley","2022","2022","3050","FAO TIER 1","kt","1.3262","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72362","Crop residues (Indirect emissions N2O)","0115","Barley","2022","2022","3050","FAO TIER 1","kt","0.2984","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72392","Crop residues (N content)","0117","Oats","2022","2022","3050","FAO TIER 1","kg","10518620.0593","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72302","Crop residues (Emissions N2O)","0117","Oats","2022","2022","3050","FAO TIER 1","kt","0.2025","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72342","Crop residues (Direct emissions N2O)","0117","Oats","2022","2022","3050","FAO TIER 1","kt","0.1653","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72362","Crop residues (Indirect emissions N2O)","0117","Oats","2022","2022","3050","FAO TIER 1","kt","0.0372","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72392","Crop residues (N content)","01510","Potatoes","2022","2022","3050","FAO TIER 1","kg","7526542.2099","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72302","Crop residues (Emissions N2O)","01510","Potatoes","2022","2022","3050","FAO TIER 1","kt","0.1449","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72342","Crop residues (Direct emissions N2O)","01510","Potatoes","2022","2022","3050","FAO TIER 1","kt","0.1183","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72362","Crop residues (Indirect emissions N2O)","01510","Potatoes","2022","2022","3050","FAO TIER 1","kt","0.0266","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72392","Crop residues (N content)","0116","Rye","2022","2022","3050","FAO TIER 1","kg","2454610.7953","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72302","Crop residues (Emissions N2O)","0116","Rye","2022","2022","3050","FAO TIER 1","kt","0.0473","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72342","Crop residues (Direct emissions N2O)","0116","Rye","2022","2022","3050","FAO TIER 1","kt","0.0386","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72362","Crop residues (Indirect emissions N2O)","0116","Rye","2022","2022","3050","FAO TIER 1","kt","0.0087","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72392","Crop residues (N content)","0111","Wheat","2022","2022","3050","FAO TIER 1","kg","189248694.9242","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72302","Crop residues (Emissions N2O)","0111","Wheat","2022","2022","3050","FAO TIER 1","kt","3.643","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72342","Crop residues (Direct emissions N2O)","0111","Wheat","2022","2022","3050","FAO TIER 1","kt","2.9739","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72362","Crop residues (Indirect emissions N2O)","0111","Wheat","2022","2022","3050","FAO TIER 1","kt","0.6691","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","7245","Burning crop residues (Biomass burned, dry matter)","0111","Wheat","2022","2022","3050","FAO TIER 1","t","723600","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72307","Burning crop residues (Emissions N2O)","0111","Wheat","2022","2022","3050","FAO TIER 1","kt","0.0507","E","Estimated value",""
-"GCE","Emissions from Crops","826","United Kingdom of Great Britain and Northern Ireland","72257","Burning crop residues (Emissions CH4)","0111","Wheat","2022","2022","3050","FAO TIER 1","kt","1.9537","E","Estimated value",""
+﻿Element,Item,Year,Unit,Value
+Crop residues (N content),Barley,2022,kg,84397661.82
+Crop residues (Emissions N2O),Barley,2022,kg,1624700
+Crop residues (Direct emissions N2O),Barley,2022,kg,1326200
+Crop residues (Indirect emissions N2O),Barley,2022,kg,298400
+Crop residues (N content),Oats,2022,kg,10518620.06
+Crop residues (Emissions N2O),Oats,2022,kg,202500
+Crop residues (Direct emissions N2O),Oats,2022,kg,165300
+Crop residues (Indirect emissions N2O),Oats,2022,kg,37200
+Crop residues (N content),Potatoes,2022,kg,7526542.21
+Crop residues (Emissions N2O),Potatoes,2022,kg,144900
+Crop residues (Direct emissions N2O),Potatoes,2022,kg,118300
+Crop residues (Indirect emissions N2O),Potatoes,2022,kg,26600
+Crop residues (N content),Rye,2022,kg,2454610.795
+Crop residues (Emissions N2O),Rye,2022,kg,47300
+Crop residues (Direct emissions N2O),Rye,2022,kg,38600
+Crop residues (Indirect emissions N2O),Rye,2022,kg,8700
+Crop residues (N content),Wheat,2022,kg,189248694.9
+Crop residues (Emissions N2O),Wheat,2022,kg,3643000
+Crop residues (Direct emissions N2O),Wheat,2022,kg,2973900
+Crop residues (Indirect emissions N2O),Wheat,2022,kg,669100
+"Burning crop residues (Biomass burned, dry matter)",Wheat,2022,kg,723600000
+Burning crop residues (Emissions N2O),Wheat,2022,kg,50700
+Burning crop residues (Emissions CH4),Wheat,2022,kg,1953700

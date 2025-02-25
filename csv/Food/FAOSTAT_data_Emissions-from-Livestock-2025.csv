@@ -1,272 +1,272 @@
-﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","An","1850000","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","5.6469","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","255.3","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","216.45","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","155577600","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","38.85","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","1.9042","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","1.1154","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.7888","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","38894400","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","11668320","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","7778880","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","1.4822","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","1.2224","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.1375","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.1222","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.2598","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","100951451.2","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","30285435.36","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kg","20190290.24","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","2.2606","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","1.5864","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.3569","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.3173","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F0960","Cattle, dairy","2022","2022","3050","FAO TIER 1","kt","0.6742","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","An","7782000","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","12.4816","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","490.266","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","443.574","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","267704846.64","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","46.692","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","3.1334","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","2.0477","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","1.0857","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","125978751.36","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","37793625.408","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","25195750.272","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","4.8007","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","3.9593","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","0.4454","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","0.3959","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","0.8414","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","203076465.03","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","60922939.509","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kg","40615293.006","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","4.5475","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","3.1912","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","0.718","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","0.6382","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F0961","Cattle, non-dairy","2022","2022","3050","FAO TIER 1","kt","1.3563","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","An","120856911","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","1.332","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","2.4171","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","42798212.0552","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","2.4171","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.3428","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.3414","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0014","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","873432.8991","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","262029.8697","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","174686.5798","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0333","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0275","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0031","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0027","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.0058","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","42689032.9428","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","12806709.8828","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kg","8537806.5886","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.9559","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.6708","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.1509","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.1342","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F1053","Chickens, broilers","2022","2022","3050","FAO TIER 1","kt","0.2851","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","An","58143089","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","1.1185","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","10.5879","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","35938568.631","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","10.5879","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.2878","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.2867","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0012","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","733440.1761","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","220032.0528","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","146688.0352","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0279","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0231","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0026","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0023","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.0049","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","35846888.6089","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","10754066.5827","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kg","7169377.7218","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.8027","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.5633","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.1267","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.1127","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F1052","Chickens, layers","2022","2022","3050","FAO TIER 1","kt","0.2394","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","02154","Ducks","2022","2022","3050","FAO TIER 1","An","2355000","A","Official figure",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0588","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0471","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","1887781.4235","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0471","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0151","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0151","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0001","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","38526.1515","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","11557.8455","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","7705.2303","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0015","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0012","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0001","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0001","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0003","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","1882965.6546","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","564889.6964","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","02154","Ducks","2022","2022","3050","FAO TIER 1","kg","376593.1309","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0422","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0296","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0067","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0059","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","02154","Ducks","2022","2022","3050","FAO TIER 1","kt","0.0126","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","02123","Goats","2022","2022","3050","FAO TIER 1","An","111000","A","Official figure",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0453","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.5694","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.555","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","79863.168","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0144","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0006","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0006","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","1916716.032","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","575014.8096","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","383343.2064","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0429","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0301","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0068","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.006","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0128","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","79863.168","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","23958.9504","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","02123","Goats","2022","2022","3050","FAO TIER 1","kg","15972.6336","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0018","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0013","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0003","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0003","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","02123","Goats","2022","2022","3050","FAO TIER 1","kt","0.0005","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","02131","Horses","2022","2022","3050","FAO TIER 1","An","429761","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.3491","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","8.4061","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","7.7357","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","615027.8439","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.6704","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0048","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0048","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","14760668.2543","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","4428200.4763","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","2952133.6509","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.3305","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.232","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0522","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0464","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0986","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","615027.8439","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","184508.3532","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","02131","Horses","2022","2022","3050","FAO TIER 1","kg","123005.5688","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0138","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0097","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0022","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0019","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","02131","Horses","2022","2022","3050","FAO TIER 1","kt","0.0041","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","02122","Sheep","2022","2022","3050","FAO TIER 1","An","33066000","A","Official figure",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","11.7597","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","270.8105","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","264.528","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","64681270.5825","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","6.2825","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.6349","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.6255","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.0094","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","432866964.6675","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","129860089.4003","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","86573392.9335","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","9.6931","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","6.8022","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","1.5305","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","1.3604","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","2.8909","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","63934948.2296","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","19180484.4689","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","02122","Sheep","2022","2022","3050","FAO TIER 1","kg","12786989.6459","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","1.4317","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","1.0047","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.2261","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.2009","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","02122","Sheep","2022","2022","3050","FAO TIER 1","kt","0.427","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","An","519200","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.375","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","5.4516","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.7788","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","15759485.28","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","4.6728","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.1255","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.0566","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.0688","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","11141392.4889","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","3342417.7467","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kg","2228278.4978","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.2495","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.1751","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.0394","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.035","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F1051","Swine, breeding","2022","2022","3050","FAO TIER 1","kt","0.0744","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","F1049","Swine, market","2022","2022","3050","FAO TIER 1","An","4672800","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","1.0221","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","35.046","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72254","Enteric fermentation (Emissions CH4)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","7.0092","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","43492086","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","28.0368","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.3463","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.1563","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.19","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","30179830.424","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","9053949.1272","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kg","6035966.0848","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.6758","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.4743","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.1067","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.0949","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","F1049","Swine, market","2022","2022","3050","FAO TIER 1","kt","0.2016","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","5111","Stocks","02152","Turkeys","2022","2022","3050","FAO TIER 1","An","3800000","A","Official figure",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72431","Livestock total (Emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.2129","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72441","Livestock total (Emissions CH4)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.342","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72386","Manure management (manure treated, N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","6839796.32","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72256","Manure management (Emissions CH4)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.342","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72306","Manure management (Emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0548","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72346","Manure management (Direct emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0546","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72366","Manure management (Indirect emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0002","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72380","Manure left on pasture (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","139587.68","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723802","Manure left on pasture that leaches (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","41876.304","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723801","Manure left on pasture that volatilises (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","27917.536","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72300","Manure left on pasture (Emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0053","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72340","Manure left on pasture (Direct emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0044","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723602","Indirect emissions (N2O that leaches) (Manure on pasture)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0005","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723601","Indirect emissions (N2O that volatilises) (Manure on pasture)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0004","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72360","Manure left on pasture (Indirect emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0009","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72381","Manure applied to soils (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","6822347.86","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723812","Manure applied to soils that leaches (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","2046704.358","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723811","Manure applied to soils that volatilises (N content)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kg","1364469.572","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72301","Emissions (N2O) (Manure applied)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.1528","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72341","Manure applied to soils (Direct emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.1072","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723612","Indirect emissions (N2O that leaches) (Manure applied)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0241","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","723611","Indirect emissions (N2O that volatilises) (Manure applied)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0214","E","Estimated value",""
-"GLE","Emissions from Livestock","826","United Kingdom of Great Britain and Northern Ireland","72361","Manure applied to soils (Indirect emissions N2O)","02152","Turkeys","2022","2022","3050","FAO TIER 1","kt","0.0456","E","Estimated value",""
+﻿Element,Item,Year,Unit,Value
+Stocks,"Cattle, dairy",2022,An,1850000
+Livestock total (Emissions N2O),"Cattle, dairy",2022,kt,5646900
+Livestock total (Emissions CH4),"Cattle, dairy",2022,kt,255300000
+Enteric fermentation (Emissions CH4),"Cattle, dairy",2022,kt,216450000
+"Manure management (manure treated, N content)","Cattle, dairy",2022,kg,155577600
+Manure management (Emissions CH4),"Cattle, dairy",2022,kt,38850000
+Manure management (Emissions N2O),"Cattle, dairy",2022,kt,1904200
+Manure management (Direct emissions N2O),"Cattle, dairy",2022,kt,1115400
+Manure management (Indirect emissions N2O),"Cattle, dairy",2022,kt,788800
+Manure left on pasture (N content),"Cattle, dairy",2022,kg,38894400
+Manure left on pasture that leaches (N content),"Cattle, dairy",2022,kg,11668320
+Manure left on pasture that volatilises (N content),"Cattle, dairy",2022,kg,7778880
+Manure left on pasture (Emissions N2O),"Cattle, dairy",2022,kt,1482200
+Manure left on pasture (Direct emissions N2O),"Cattle, dairy",2022,kt,1222400
+Indirect emissions (N2O that leaches) (Manure on pasture),"Cattle, dairy",2022,kt,137500
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Cattle, dairy",2022,kt,122200
+Manure left on pasture (Indirect emissions N2O),"Cattle, dairy",2022,kt,259800
+Manure applied to soils (N content),"Cattle, dairy",2022,kg,100951451.2
+Manure applied to soils that leaches (N content),"Cattle, dairy",2022,kg,30285435.36
+Manure applied to soils that volatilises (N content),"Cattle, dairy",2022,kg,20190290.24
+Emissions (N2O) (Manure applied),"Cattle, dairy",2022,kt,2260600
+Manure applied to soils (Direct emissions N2O),"Cattle, dairy",2022,kt,1586400
+Indirect emissions (N2O that leaches) (Manure applied),"Cattle, dairy",2022,kt,356900
+Indirect emissions (N2O that volatilises) (Manure applied),"Cattle, dairy",2022,kt,317300
+Manure applied to soils (Indirect emissions N2O),"Cattle, dairy",2022,kt,674200
+Stocks,"Cattle, non-dairy",2022,An,7782000
+Livestock total (Emissions N2O),"Cattle, non-dairy",2022,kt,12481600
+Livestock total (Emissions CH4),"Cattle, non-dairy",2022,kt,490266000
+Enteric fermentation (Emissions CH4),"Cattle, non-dairy",2022,kt,443574000
+"Manure management (manure treated, N content)","Cattle, non-dairy",2022,kg,267704846.6
+Manure management (Emissions CH4),"Cattle, non-dairy",2022,kt,46692000
+Manure management (Emissions N2O),"Cattle, non-dairy",2022,kt,3133400
+Manure management (Direct emissions N2O),"Cattle, non-dairy",2022,kt,2047700
+Manure management (Indirect emissions N2O),"Cattle, non-dairy",2022,kt,1085700
+Manure left on pasture (N content),"Cattle, non-dairy",2022,kg,125978751.4
+Manure left on pasture that leaches (N content),"Cattle, non-dairy",2022,kg,37793625.41
+Manure left on pasture that volatilises (N content),"Cattle, non-dairy",2022,kg,25195750.27
+Manure left on pasture (Emissions N2O),"Cattle, non-dairy",2022,kt,4800700
+Manure left on pasture (Direct emissions N2O),"Cattle, non-dairy",2022,kt,3959300
+Indirect emissions (N2O that leaches) (Manure on pasture),"Cattle, non-dairy",2022,kt,445400
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Cattle, non-dairy",2022,kt,395900
+Manure left on pasture (Indirect emissions N2O),"Cattle, non-dairy",2022,kt,841400
+Manure applied to soils (N content),"Cattle, non-dairy",2022,kg,203076465
+Manure applied to soils that leaches (N content),"Cattle, non-dairy",2022,kg,60922939.51
+Manure applied to soils that volatilises (N content),"Cattle, non-dairy",2022,kg,40615293.01
+Emissions (N2O) (Manure applied),"Cattle, non-dairy",2022,kt,4547500
+Manure applied to soils (Direct emissions N2O),"Cattle, non-dairy",2022,kt,3191200
+Indirect emissions (N2O that leaches) (Manure applied),"Cattle, non-dairy",2022,kt,718000
+Indirect emissions (N2O that volatilises) (Manure applied),"Cattle, non-dairy",2022,kt,638200
+Manure applied to soils (Indirect emissions N2O),"Cattle, non-dairy",2022,kt,1356300
+Stocks,"Chickens, broilers",2022,An,120856911
+Livestock total (Emissions N2O),"Chickens, broilers",2022,kt,1332000
+Livestock total (Emissions CH4),"Chickens, broilers",2022,kt,2417100
+"Manure management (manure treated, N content)","Chickens, broilers",2022,kg,42798212.06
+Manure management (Emissions CH4),"Chickens, broilers",2022,kt,2417100
+Manure management (Emissions N2O),"Chickens, broilers",2022,kt,342800
+Manure management (Direct emissions N2O),"Chickens, broilers",2022,kt,341400
+Manure management (Indirect emissions N2O),"Chickens, broilers",2022,kt,1400
+Manure left on pasture (N content),"Chickens, broilers",2022,kg,873432.8991
+Manure left on pasture that leaches (N content),"Chickens, broilers",2022,kg,262029.8697
+Manure left on pasture that volatilises (N content),"Chickens, broilers",2022,kg,174686.5798
+Manure left on pasture (Emissions N2O),"Chickens, broilers",2022,kt,33300
+Manure left on pasture (Direct emissions N2O),"Chickens, broilers",2022,kt,27500
+Indirect emissions (N2O that leaches) (Manure on pasture),"Chickens, broilers",2022,kt,3100
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Chickens, broilers",2022,kt,2700
+Manure left on pasture (Indirect emissions N2O),"Chickens, broilers",2022,kt,5800
+Manure applied to soils (N content),"Chickens, broilers",2022,kg,42689032.94
+Manure applied to soils that leaches (N content),"Chickens, broilers",2022,kg,12806709.88
+Manure applied to soils that volatilises (N content),"Chickens, broilers",2022,kg,8537806.589
+Emissions (N2O) (Manure applied),"Chickens, broilers",2022,kt,955900
+Manure applied to soils (Direct emissions N2O),"Chickens, broilers",2022,kt,670800
+Indirect emissions (N2O that leaches) (Manure applied),"Chickens, broilers",2022,kt,150900
+Indirect emissions (N2O that volatilises) (Manure applied),"Chickens, broilers",2022,kt,134200
+Manure applied to soils (Indirect emissions N2O),"Chickens, broilers",2022,kt,285100
+Stocks,"Chickens, layers",2022,An,58143089
+Livestock total (Emissions N2O),"Chickens, layers",2022,kt,1118500
+Livestock total (Emissions CH4),"Chickens, layers",2022,kt,10587900
+"Manure management (manure treated, N content)","Chickens, layers",2022,kg,35938568.63
+Manure management (Emissions CH4),"Chickens, layers",2022,kt,10587900
+Manure management (Emissions N2O),"Chickens, layers",2022,kt,287800
+Manure management (Direct emissions N2O),"Chickens, layers",2022,kt,286700
+Manure management (Indirect emissions N2O),"Chickens, layers",2022,kt,1200
+Manure left on pasture (N content),"Chickens, layers",2022,kg,733440.1761
+Manure left on pasture that leaches (N content),"Chickens, layers",2022,kg,220032.0528
+Manure left on pasture that volatilises (N content),"Chickens, layers",2022,kg,146688.0352
+Manure left on pasture (Emissions N2O),"Chickens, layers",2022,kt,27900
+Manure left on pasture (Direct emissions N2O),"Chickens, layers",2022,kt,23100
+Indirect emissions (N2O that leaches) (Manure on pasture),"Chickens, layers",2022,kt,2600
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Chickens, layers",2022,kt,2300
+Manure left on pasture (Indirect emissions N2O),"Chickens, layers",2022,kt,4900
+Manure applied to soils (N content),"Chickens, layers",2022,kg,35846888.61
+Manure applied to soils that leaches (N content),"Chickens, layers",2022,kg,10754066.58
+Manure applied to soils that volatilises (N content),"Chickens, layers",2022,kg,7169377.722
+Emissions (N2O) (Manure applied),"Chickens, layers",2022,kt,802700
+Manure applied to soils (Direct emissions N2O),"Chickens, layers",2022,kt,563300
+Indirect emissions (N2O that leaches) (Manure applied),"Chickens, layers",2022,kt,126700
+Indirect emissions (N2O that volatilises) (Manure applied),"Chickens, layers",2022,kt,112700
+Manure applied to soils (Indirect emissions N2O),"Chickens, layers",2022,kt,239400
+Stocks,Ducks,2022,An,2355000
+Livestock total (Emissions N2O),Ducks,2022,kt,58800
+Livestock total (Emissions CH4),Ducks,2022,kt,47100
+"Manure management (manure treated, N content)",Ducks,2022,kg,1887781.424
+Manure management (Emissions CH4),Ducks,2022,kt,47100
+Manure management (Emissions N2O),Ducks,2022,kt,15100
+Manure management (Direct emissions N2O),Ducks,2022,kt,15100
+Manure management (Indirect emissions N2O),Ducks,2022,kt,100
+Manure left on pasture (N content),Ducks,2022,kg,38526.1515
+Manure left on pasture that leaches (N content),Ducks,2022,kg,11557.8455
+Manure left on pasture that volatilises (N content),Ducks,2022,kg,7705.2303
+Manure left on pasture (Emissions N2O),Ducks,2022,kt,1500
+Manure left on pasture (Direct emissions N2O),Ducks,2022,kt,1200
+Indirect emissions (N2O that leaches) (Manure on pasture),Ducks,2022,kt,100
+Indirect emissions (N2O that volatilises) (Manure on pasture),Ducks,2022,kt,100
+Manure left on pasture (Indirect emissions N2O),Ducks,2022,kt,300
+Manure applied to soils (N content),Ducks,2022,kg,1882965.655
+Manure applied to soils that leaches (N content),Ducks,2022,kg,564889.6964
+Manure applied to soils that volatilises (N content),Ducks,2022,kg,376593.1309
+Emissions (N2O) (Manure applied),Ducks,2022,kt,42200
+Manure applied to soils (Direct emissions N2O),Ducks,2022,kt,29600
+Indirect emissions (N2O that leaches) (Manure applied),Ducks,2022,kt,6700
+Indirect emissions (N2O that volatilises) (Manure applied),Ducks,2022,kt,5900
+Manure applied to soils (Indirect emissions N2O),Ducks,2022,kt,12600
+Stocks,Goats,2022,An,111000
+Livestock total (Emissions N2O),Goats,2022,kt,45300
+Livestock total (Emissions CH4),Goats,2022,kt,569400
+Enteric fermentation (Emissions CH4),Goats,2022,kt,555000
+"Manure management (manure treated, N content)",Goats,2022,kg,79863.168
+Manure management (Emissions CH4),Goats,2022,kt,14400
+Manure management (Emissions N2O),Goats,2022,kt,600
+Manure management (Direct emissions N2O),Goats,2022,kt,600
+Manure management (Indirect emissions N2O),Goats,2022,kt,0
+Manure left on pasture (N content),Goats,2022,kg,1916716.032
+Manure left on pasture that leaches (N content),Goats,2022,kg,575014.8096
+Manure left on pasture that volatilises (N content),Goats,2022,kg,383343.2064
+Manure left on pasture (Emissions N2O),Goats,2022,kt,42900
+Manure left on pasture (Direct emissions N2O),Goats,2022,kt,30100
+Indirect emissions (N2O that leaches) (Manure on pasture),Goats,2022,kt,6800
+Indirect emissions (N2O that volatilises) (Manure on pasture),Goats,2022,kt,6000
+Manure left on pasture (Indirect emissions N2O),Goats,2022,kt,12800
+Manure applied to soils (N content),Goats,2022,kg,79863.168
+Manure applied to soils that leaches (N content),Goats,2022,kg,23958.9504
+Manure applied to soils that volatilises (N content),Goats,2022,kg,15972.6336
+Emissions (N2O) (Manure applied),Goats,2022,kt,1800
+Manure applied to soils (Direct emissions N2O),Goats,2022,kt,1300
+Indirect emissions (N2O that leaches) (Manure applied),Goats,2022,kt,300
+Indirect emissions (N2O that volatilises) (Manure applied),Goats,2022,kt,300
+Manure applied to soils (Indirect emissions N2O),Goats,2022,kt,500
+Stocks,Horses,2022,An,429761
+Livestock total (Emissions N2O),Horses,2022,kt,349100
+Livestock total (Emissions CH4),Horses,2022,kt,8406100
+Enteric fermentation (Emissions CH4),Horses,2022,kt,7735700
+"Manure management (manure treated, N content)",Horses,2022,kg,615027.8439
+Manure management (Emissions CH4),Horses,2022,kt,670400
+Manure management (Emissions N2O),Horses,2022,kt,4800
+Manure management (Direct emissions N2O),Horses,2022,kt,4800
+Manure management (Indirect emissions N2O),Horses,2022,kt,0
+Manure left on pasture (N content),Horses,2022,kg,14760668.25
+Manure left on pasture that leaches (N content),Horses,2022,kg,4428200.476
+Manure left on pasture that volatilises (N content),Horses,2022,kg,2952133.651
+Manure left on pasture (Emissions N2O),Horses,2022,kt,330500
+Manure left on pasture (Direct emissions N2O),Horses,2022,kt,232000
+Indirect emissions (N2O that leaches) (Manure on pasture),Horses,2022,kt,52200
+Indirect emissions (N2O that volatilises) (Manure on pasture),Horses,2022,kt,46400
+Manure left on pasture (Indirect emissions N2O),Horses,2022,kt,98600
+Manure applied to soils (N content),Horses,2022,kg,615027.8439
+Manure applied to soils that leaches (N content),Horses,2022,kg,184508.3532
+Manure applied to soils that volatilises (N content),Horses,2022,kg,123005.5688
+Emissions (N2O) (Manure applied),Horses,2022,kt,13800
+Manure applied to soils (Direct emissions N2O),Horses,2022,kt,9700
+Indirect emissions (N2O that leaches) (Manure applied),Horses,2022,kt,2200
+Indirect emissions (N2O that volatilises) (Manure applied),Horses,2022,kt,1900
+Manure applied to soils (Indirect emissions N2O),Horses,2022,kt,4100
+Stocks,Sheep,2022,An,33066000
+Livestock total (Emissions N2O),Sheep,2022,kt,11759700
+Livestock total (Emissions CH4),Sheep,2022,kt,270810500
+Enteric fermentation (Emissions CH4),Sheep,2022,kt,264528000
+"Manure management (manure treated, N content)",Sheep,2022,kg,64681270.58
+Manure management (Emissions CH4),Sheep,2022,kt,6282500
+Manure management (Emissions N2O),Sheep,2022,kt,634900
+Manure management (Direct emissions N2O),Sheep,2022,kt,625500
+Manure management (Indirect emissions N2O),Sheep,2022,kt,9400
+Manure left on pasture (N content),Sheep,2022,kg,432866964.7
+Manure left on pasture that leaches (N content),Sheep,2022,kg,129860089.4
+Manure left on pasture that volatilises (N content),Sheep,2022,kg,86573392.93
+Manure left on pasture (Emissions N2O),Sheep,2022,kt,9693100
+Manure left on pasture (Direct emissions N2O),Sheep,2022,kt,6802200
+Indirect emissions (N2O that leaches) (Manure on pasture),Sheep,2022,kt,1530500
+Indirect emissions (N2O that volatilises) (Manure on pasture),Sheep,2022,kt,1360400
+Manure left on pasture (Indirect emissions N2O),Sheep,2022,kt,2890900
+Manure applied to soils (N content),Sheep,2022,kg,63934948.23
+Manure applied to soils that leaches (N content),Sheep,2022,kg,19180484.47
+Manure applied to soils that volatilises (N content),Sheep,2022,kg,12786989.65
+Emissions (N2O) (Manure applied),Sheep,2022,kt,1431700
+Manure applied to soils (Direct emissions N2O),Sheep,2022,kt,1004700
+Indirect emissions (N2O that leaches) (Manure applied),Sheep,2022,kt,226100
+Indirect emissions (N2O that volatilises) (Manure applied),Sheep,2022,kt,200900
+Manure applied to soils (Indirect emissions N2O),Sheep,2022,kt,427000
+Stocks,"Swine, breeding",2022,An,519200
+Livestock total (Emissions N2O),"Swine, breeding",2022,kt,375000
+Livestock total (Emissions CH4),"Swine, breeding",2022,kt,5451600
+Enteric fermentation (Emissions CH4),"Swine, breeding",2022,kt,778800
+"Manure management (manure treated, N content)","Swine, breeding",2022,kg,15759485.28
+Manure management (Emissions CH4),"Swine, breeding",2022,kt,4672800
+Manure management (Emissions N2O),"Swine, breeding",2022,kt,125500
+Manure management (Direct emissions N2O),"Swine, breeding",2022,kt,56600
+Manure management (Indirect emissions N2O),"Swine, breeding",2022,kt,68800
+Manure left on pasture (N content),"Swine, breeding",2022,kg,0
+Manure left on pasture that leaches (N content),"Swine, breeding",2022,kg,0
+Manure left on pasture that volatilises (N content),"Swine, breeding",2022,kg,0
+Manure left on pasture (Emissions N2O),"Swine, breeding",2022,kt,0
+Manure left on pasture (Direct emissions N2O),"Swine, breeding",2022,kt,0
+Indirect emissions (N2O that leaches) (Manure on pasture),"Swine, breeding",2022,kt,0
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Swine, breeding",2022,kt,0
+Manure left on pasture (Indirect emissions N2O),"Swine, breeding",2022,kt,0
+Manure applied to soils (N content),"Swine, breeding",2022,kg,11141392.49
+Manure applied to soils that leaches (N content),"Swine, breeding",2022,kg,3342417.747
+Manure applied to soils that volatilises (N content),"Swine, breeding",2022,kg,2228278.498
+Emissions (N2O) (Manure applied),"Swine, breeding",2022,kt,249500
+Manure applied to soils (Direct emissions N2O),"Swine, breeding",2022,kt,175100
+Indirect emissions (N2O that leaches) (Manure applied),"Swine, breeding",2022,kt,39400
+Indirect emissions (N2O that volatilises) (Manure applied),"Swine, breeding",2022,kt,35000
+Manure applied to soils (Indirect emissions N2O),"Swine, breeding",2022,kt,74400
+Stocks,"Swine, market",2022,An,4672800
+Livestock total (Emissions N2O),"Swine, market",2022,kt,1022100
+Livestock total (Emissions CH4),"Swine, market",2022,kt,35046000
+Enteric fermentation (Emissions CH4),"Swine, market",2022,kt,7009200
+"Manure management (manure treated, N content)","Swine, market",2022,kg,43492086
+Manure management (Emissions CH4),"Swine, market",2022,kt,28036800
+Manure management (Emissions N2O),"Swine, market",2022,kt,346300
+Manure management (Direct emissions N2O),"Swine, market",2022,kt,156300
+Manure management (Indirect emissions N2O),"Swine, market",2022,kt,190000
+Manure left on pasture (N content),"Swine, market",2022,kg,0
+Manure left on pasture that leaches (N content),"Swine, market",2022,kg,0
+Manure left on pasture that volatilises (N content),"Swine, market",2022,kg,0
+Manure left on pasture (Emissions N2O),"Swine, market",2022,kt,0
+Manure left on pasture (Direct emissions N2O),"Swine, market",2022,kt,0
+Indirect emissions (N2O that leaches) (Manure on pasture),"Swine, market",2022,kt,0
+Indirect emissions (N2O that volatilises) (Manure on pasture),"Swine, market",2022,kt,0
+Manure left on pasture (Indirect emissions N2O),"Swine, market",2022,kt,0
+Manure applied to soils (N content),"Swine, market",2022,kg,30179830.42
+Manure applied to soils that leaches (N content),"Swine, market",2022,kg,9053949.127
+Manure applied to soils that volatilises (N content),"Swine, market",2022,kg,6035966.085
+Emissions (N2O) (Manure applied),"Swine, market",2022,kt,675800
+Manure applied to soils (Direct emissions N2O),"Swine, market",2022,kt,474300
+Indirect emissions (N2O that leaches) (Manure applied),"Swine, market",2022,kt,106700
+Indirect emissions (N2O that volatilises) (Manure applied),"Swine, market",2022,kt,94900
+Manure applied to soils (Indirect emissions N2O),"Swine, market",2022,kt,201600
+Stocks,Turkeys,2022,An,3800000
+Livestock total (Emissions N2O),Turkeys,2022,kt,212900
+Livestock total (Emissions CH4),Turkeys,2022,kt,342000
+"Manure management (manure treated, N content)",Turkeys,2022,kg,6839796.32
+Manure management (Emissions CH4),Turkeys,2022,kt,342000
+Manure management (Emissions N2O),Turkeys,2022,kt,54800
+Manure management (Direct emissions N2O),Turkeys,2022,kt,54600
+Manure management (Indirect emissions N2O),Turkeys,2022,kt,200
+Manure left on pasture (N content),Turkeys,2022,kg,139587.68
+Manure left on pasture that leaches (N content),Turkeys,2022,kg,41876.304
+Manure left on pasture that volatilises (N content),Turkeys,2022,kg,27917.536
+Manure left on pasture (Emissions N2O),Turkeys,2022,kt,5300
+Manure left on pasture (Direct emissions N2O),Turkeys,2022,kt,4400
+Indirect emissions (N2O that leaches) (Manure on pasture),Turkeys,2022,kt,500
+Indirect emissions (N2O that volatilises) (Manure on pasture),Turkeys,2022,kt,400
+Manure left on pasture (Indirect emissions N2O),Turkeys,2022,kt,900
+Manure applied to soils (N content),Turkeys,2022,kg,6822347.86
+Manure applied to soils that leaches (N content),Turkeys,2022,kg,2046704.358
+Manure applied to soils that volatilises (N content),Turkeys,2022,kg,1364469.572
+Emissions (N2O) (Manure applied),Turkeys,2022,kt,152800
+Manure applied to soils (Direct emissions N2O),Turkeys,2022,kt,107200
+Indirect emissions (N2O that leaches) (Manure applied),Turkeys,2022,kt,24100
+Indirect emissions (N2O that volatilises) (Manure applied),Turkeys,2022,kt,21400
+Manure applied to soils (Indirect emissions N2O),Turkeys,2022,kt,45600
