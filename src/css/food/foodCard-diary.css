@@ -1,10 +1,5 @@
 .divider {
     border-bottom: 1px solid #646464;
-    
-}
-
-.food-diary_container {
-    border-style: solid;
 }
 
 .food-diary__block-title {
@@ -14,7 +9,6 @@
     padding: 2px;
     margin: 2px;
     display: flex;
-
 }
 
 .food-diary__item-container {
