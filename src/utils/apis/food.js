@@ -1,49 +1,55 @@
 // Function to start fetching data based on user input
 function startFetchingData(template) {
     const searchInput = document.getElementById("search");
-    const resultsContainer = document.getElementById("foodCard-search-section");
-    const resultsWrapper = document.getElementById("food-results"); // New results container
+    const resultsWrapper = document.getElementById("food-results");
+    const submitButton = document.querySelector(".food-submit-button");
 
-    if (!searchInput || !resultsContainer || !resultsWrapper || !template) {
+    if (!searchInput || !resultsWrapper || !template || !submitButton) {
         console.error("❌ Missing essential elements for search functionality.");
         return;
     }
 
-    let debounceTimer;
+    let lastQuery = "";  // Cache last query to prevent redundant API calls
+    let controller;  // Controller to cancel slow API calls
 
-    // Function to fetch food data from Open Food Facts API
-    async function fetchFoodData(query) {
-        if (!query || query.trim() === "") {
-            console.warn("⚠️ No search term provided. Clearing results.");
-            resultsWrapper.innerHTML = ""; // Clear only results, NOT the search bar
-            return;
-        }
+    // Function to fetch food data from Open Food Facts API efficiently
+    async function fetchFoodData() {
+        const query = searchInput.value.trim();
+        if (!query || query === lastQuery) return;  // Avoid duplicate searches
+        lastQuery = query;
 
-        const url = `https://world.openfoodfacts.org/cgi/search.pl?action=process&json=true&search_terms=${encodeURIComponent(query)}`;
+        // Cancel previous request if still running
+        if (controller) controller.abort();
+        controller = new AbortController();
+
+        // Show loading indicator
+        resultsWrapper.innerHTML = "<p>Loading results...</p>";
+
+        const url = `https://world.openfoodfacts.org/cgi/search.pl?action=process&json=true&search_terms=${encodeURIComponent(query)}&fields=product_name,brands,image_url,carbon_footprint_percent_of_known_ingredients,serving_quantity,quantity`;
 
         try {
-            const response = await fetch(url, { method: "GET", mode: "cors" });
-            if (!response.ok) {
-                throw new Error(`HTTP Error: ${response.status} - ${response.statusText}`);
-            }
+            const response = await fetch(url, { method: "GET", mode: "cors", signal: controller.signal });
+
+            if (!response.ok) throw new Error(`HTTP Error: ${response.status} - ${response.statusText}`);
 
             const data = await response.json();
-            console.log("✅ API Response:", data);
-
             if (!data.products || !Array.isArray(data.products)) {
-                console.error("❌ API did not return a valid product list.");
                 resultsWrapper.innerHTML = "<p>No food products found.</p>";
                 return;
             }
 
-            displayResults(data.products, template);
+            displayResults(data.products.slice(0, 10), template); // Show first 10 results
         } catch (error) {
-            console.error("❌ Error fetching data:", error.message);
-            resultsWrapper.innerHTML = "<p>Error fetching data. Please try again.</p>";
+            if (error.name === "AbortError") {
+                console.warn("⚠️ Request aborted due to slow response.");
+            } else {
+                resultsWrapper.innerHTML = "<p>Error fetching data. Please try again.</p>";
+                console.error("❌ Fetch error:", error);
+            }
         }
     }
 
-    // Function to display food products in the UI
+    // Function to display food products efficiently
     function displayResults(products, template) {
         resultsWrapper.innerHTML = ""; // Clear previous results
 
@@ -52,12 +58,13 @@ function startFetchingData(template) {
             return;
         }
 
+        const fragment = document.createDocumentFragment(); // Optimize rendering
+
         products.forEach(product => {
             const card = template.content.cloneNode(true).children[0];
 
             const productName = product.product_name || "Unknown Product";
             const brand = product.brands || "N/A";
-
             const carbonPercentage = product.carbon_footprint_percent_of_known_ingredients || 0;
             let totalWeight = parseFloat(product.serving_quantity) || 0;
 
@@ -71,32 +78,33 @@ function startFetchingData(template) {
                 }
             }
 
-            // Convert Carbon Footprint Percentage to Grams
             let carbonGrams = "N/A";
             if (carbonPercentage > 0 && totalWeight > 0) {
                 carbonGrams = ((carbonPercentage / 100) * totalWeight).toFixed(2) + " g CO₂";
             }
 
             const imageUrl = product.image_url || "https://via.placeholder.com/100";
-
-            card.querySelector(".card").innerHTML = `<h3>${productName}</h3>`;
             card.querySelector(".body").innerHTML = `
+                <img src="${imageUrl}" alt="${productName}">
+                <h3>${productName}</h3>
                 <p><strong>Brand:</strong> ${brand}</p>
                 <p><strong>Carbon Footprint:</strong> ${carbonGrams}</p>
-                <img src="${imageUrl}" alt="${productName}">
             `;
 
-            resultsWrapper.appendChild(card);
+            fragment.appendChild(card);
         });
+
+        resultsWrapper.appendChild(fragment); // Append all results at once (faster rendering)
     }
 
-    // Listen for user input and fetch data (Debounced to prevent spam)
-    searchInput.addEventListener("input", () => {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => {
-            const query = searchInput.value.trim();
-            fetchFoodData(query);
-        }, 500);
+    // Fetch data when the submit button is clicked
+    submitButton.addEventListener("click", fetchFoodData);
+
+    // Fetch data when Enter key is pressed
+    searchInput.addEventListener("keypress", (event) => {
+        if (event.key === "Enter") {
+            fetchFoodData();
+        }
     });
 }
 
@@ -104,7 +112,6 @@ function startFetchingData(template) {
 const observer = new MutationObserver(() => {
     const foodCardTemplate = document.querySelector("[data-food-card-template]");
     if (foodCardTemplate) {
-        console.log("✅ Template found!", foodCardTemplate);
         observer.disconnect();
         startFetchingData(foodCardTemplate);
     }
