@@ -1,9 +1,6 @@
-.divider {
-    border-bottom: 1px solid #646464;
-}
 
-.food-search-bar {
-    font-size: 19px;
+.search-divider {
+    border: 1px solid #ccc;
 }
 
 .food-search_title {
@@ -15,37 +12,145 @@
     display: flex;
 }
 
+.food-searchbar-wrapper {
+    display: flex;
+    align-items: center; 
+    gap: 5px;
+}
+
 .food-search-bar {
     width: 30vh;
     height: 40px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
 }
 
-.food-card-wrapper {
-    border-style: solid;
-    margin: 5px;
-    border-radius: 7px;
+.food-submit-button {
+    height: 40px; 
+    width: 40px; 
+    border: 1px solid #ccc;
+    border-left: none; 
+    border-radius: 0 5px 5px 0;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.food-submit-button img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
 }
 
 .food-card-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    justify-content: center;
+    padding: 10px;
+}
+
+.food-card-wrapper {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #f9f9f9;
+    padding: 10px;
+    text-align: center;
 }
 
 .food-cards {
-    margin: 10px;
-    grid-template-columns: repeat(3, 1fr);
     width: 100%;
-    height: auto;
-}
-
-img {
-    width: 20%;
-}
-
-.food-searchbar-wrapper {
+    height: 100%;
     display: flex;
-    margin: 5px;
-    justify-content: flex-start;
-    gap: 5px;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
+.food-cards .body {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.food-cards img {
+    max-width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.food-cards h3 {
+    font-size: 16px;
+    margin: 10px 0 5px;
+}
+
+.food-cards p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.food-cards button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.food-cards button:hover {
+    background-color: #0056b3;
+}
+
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}

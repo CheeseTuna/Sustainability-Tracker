@@ -1,5 +1,4 @@
 .foodCard-index-main-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    border-style: solid;
 }

@@ -1,5 +1,5 @@
 <div class="food-search_wrapper">
-    <p class="food-search_title divider" for="search">Search Items</p>
+    <p class="food-search_title search-divider" for="search">Search Items</p>
     <div class="food-searchbar-wrapper">
         <input class="food-search-bar" type="search" id="search">
         <button class="food-submit-button">
@@ -14,7 +14,16 @@
     <div class="food-card-wrapper">
         <div class="food-cards">
             <div class="body"></div>
-            <button>Select</button>
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Select</button>
+                <div id="myDropdown" class="dropdown-content">
+                    <a href="#">Breakfast</a>
+                    <a href="#">Lunch</a>
+                    <a href="#">Dinner</a>
+                    <a href="#">Snacks</a>
+                </div>
+            </div>
         </div>
     </div>
 </template>
+
