@@ -1,20 +1,54 @@
 <div class="header-wrapper">
-    <!-- Header Top: Title -->
-    <div class="header-top">
-        <h1 class="header-title">Sustainability Tracker</h1>
-    </div>    
+    <div class="navbar-container">
+        <div class="header-top">
+            <h1 class="header-title">Sustainability Tracker</h1>
+        </div> 
+        <nav class="navbar">
+            <a class="navbar-link" href="#">Home</a>
+            <a class="navbar-link" href="#">Tracker</a>
+            <a class="navbar-link" href="#">Food</a>
+        </nav>
+    </div> 
 
-    <!-- Header Middle: Tracker & Banner Image -->
-    <div class="header-middle">
-        <div class="tracker-banner-container">
-            <!-- Tracker is now part of header -->
-            <div class="tracker-container">
-                <div id="tracker-section"></div>
-            </div>
+   
     
+        <div class="tracker-banner-container">
+            <div class="tracker-container">
+                <div class="tracker-section">
+                    <div class="tracker-wrapper">
+                        <p class="tracker-title">Total Emission</p>
+                        <div class="tracker-content">
+                            <img class="tracker-icon" src="/public/assets/icons/total.png">
+                            <p>10.200</p>
+                        </div>
+                    </div>        
+                </div>
+                <div class="tracker-section">
+                    <div class="tracker-wrapper">
+                        <p class="tracker-title">Weekly Emissions</p>
+                        <div class="tracker-content">
+                            <img class="tracker-icon" src="/public/assets/icons/weekly.png">
+                            <p>10.200</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tracker-section">
+                    <div style="border-style: none;" class="tracker-wrapper">
+                        <p class="tracker-title">Pending</p>
+                        <div class="tracker-content">
+                            <img class="tracker-icon" src="/public/assets/icons/pending.png">
+                            <p>10.200</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
             <div class="header-banner-container">
                 <img class="header-banner-image" src="/public/assets/banner-logo.png" alt="Banner Image">
             </div>
         </div>
-    </div>    
+      
 </div>
+
+<script src="/src/js/tracker.js"></script>

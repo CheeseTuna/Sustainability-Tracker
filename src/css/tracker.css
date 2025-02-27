@@ -1,10 +1,19 @@
+
 .tracker-container {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     align-items: center;
     width: auto;
     flex-grow: 1;
-    gap: 10px; 
+    gap: 10px;
+    padding: 20px;
+}
+
+.tracker-banner-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 .tracker-section {
@@ -18,10 +27,8 @@
     display: flex;
     flex-direction: column;
     align-items: start;
-    border-color: #284E13;
-    border-right: 1px solid;
-    text-align: center; 
-    
+    border-right: 1px solid #284E13;
+    text-align: center;
 }
 
 .tracker-content {
@@ -30,20 +37,17 @@
     gap: 8px;
     width: 100%;
     justify-content: flex-start;
-    
 }
 
-
 .tracker-icon {
-    max-width: 30px; 
+    max-width: 30px;
     height: auto;
 }
 
 .tracker-title {
     font-size: 20px;
-    margin: 0;  
-    padding: 0; 
-    text-align:start;
+    margin: 0;
+    padding: 0;
+    text-align: start;
     width: 100%;
 }
-

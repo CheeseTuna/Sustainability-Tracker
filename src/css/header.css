@@ -1,4 +1,4 @@
-/* HEADER WRAPPER */
+
 .header-wrapper {
     display: flex;
     flex-direction: column;
@@ -9,67 +9,31 @@
     position: relative;
 }
 
-/* HEADER TITLE (Top Left) */
 .header-top {
     display: flex;
-    justify-content: flex-start; /* Moves title to the left */
+    justify-content: flex-start; 
     align-items: center;
     width: 100%;
     padding-left: 20px;
 }
 
 .header-title {
-    font-size: 32px;
+    font-size: 35px;
     color: #284E13;
     font-weight: bold;
     margin: 0;
 }
 
-/* HEADER MIDDLE SECTION */
-.header-middle {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end; /* Align tracker & banner image to bottom */
-    width: 100%;
-    padding: 20px;
-}
 
-/* FLEX CONTAINER for TRACKER & BANNER IMAGE */
-.tracker-banner-container {
-    display: flex;
-    align-items: flex-end; /* Align tracker & banner at the bottom */
-    justify-content: space-between;
-    width: 100%;
-    padding-bottom: 10px;
-}
-
-/* TRACKER SECTION (Bottom Left) */
-#tracker-section {
-    flex: 1;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.tracker-container {
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-start;
-    width: 50%;
-}
-
-
-/* BANNER CONTAINER (Bottom Right) */
-.header-banner-container {
+/* .header-banner-container {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
     width: 50%;
-}
+} */
 
-/* BANNER IMAGE */
 .header-banner-image {
-    width: 250px;
+    width: 150px;
     height: auto;
     padding-bottom: 10px;
 }

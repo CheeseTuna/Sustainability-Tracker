@@ -2,6 +2,10 @@
     border-bottom: 1px solid #646464;
 }
 
+.food-search-bar {
+    font-size: 19px;
+}
+
 .food-search_title {
     font-size: 20px;
     font-weight: bold;
@@ -13,20 +17,35 @@
 
 .food-search-bar {
     width: 30vh;
-    height: 30px;
+    height: 40px;
+}
+
+.food-card-wrapper {
+    border-style: solid;
+    margin: 5px;
+    border-radius: 7px;
+}
+
+.food-card-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 
 .food-cards {
     margin: 10px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    height: auto;
 }
 
 img {
     width: 20%;
 }
 
-.food-submit-button {
-    width: 4rem;
-    height: 30px;
+.food-searchbar-wrapper {
+    display: flex;
+    margin: 5px;
+    justify-content: flex-start;
+    gap: 5px;
 }
+

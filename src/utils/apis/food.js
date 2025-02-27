@@ -38,7 +38,7 @@ function startFetchingData(template) {
                 return;
             }
 
-            displayResults(data.products.slice(0, 10), template); // Show first 10 results
+            displayResults(data.products.slice(0, 20), template); // Show first 20 results
         } catch (error) {
             if (error.name === "AbortError") {
                 console.warn("⚠️ Request aborted due to slow response.");

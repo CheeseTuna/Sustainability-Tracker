@@ -45,9 +45,7 @@ function reloadJS(jsPath) {
 
 // Auto-load components with their respective CSS and JS files
 document.addEventListener("DOMContentLoaded", function () {
-    loadComponent('/src/components/navbar.html', 'navbar-section', ['/src/css/navbar.css']);
-    loadComponent('/src/components/header.html', 'header-section', ['/src/css/header.css'], ['/src/components/tracker.html']);
-    loadComponent('/src/components/tracker.html', 'tracker-section', ['/src/css/tracker.css'], ['/src/js/tracker.js']);
+    loadComponent('/src/components/header.html', 'header-section', ['/src/css/header.css', '/src/css/navbar.css', '/src/css/tracker.css']);
     loadComponent('/src/components/dataCard.html', 'dataCard-section', ['/src/css/dataCard.css'], ['/src/js/dataCard.js']);
     loadComponent('/src/components/food/foodCard-diary.html', 'foodCard-diary-section', ['/src/css/food/foodCard-diary.css']);
     loadComponent('/src/components/food/foodCard-search.html', 'foodCard-search-section', ['/src/css/food/foodCard-search.css']);
